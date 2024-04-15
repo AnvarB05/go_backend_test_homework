@@ -5,10 +5,10 @@ import (
 )
 
 func Add(a, b int) int {
-	return a + b
+	return a - b
 }
 
-// комментарий
+// комментарий забыл добавить
 func main() {
 	fmt.Println("Я домашка")
 }
